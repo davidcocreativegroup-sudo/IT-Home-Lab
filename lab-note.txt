@@ -1,0 +1,13 @@
+It Home Lab Project 
+Operating System:
+Ubuntu Desktop 26.04 LTS
+
+Virtualization:
+oracle VirtualBox
+
+Completed:
+-Installed Ubuntu
+-Configured SSH
+-Installed Apache Web Server
+-Hosted customer HTML webpage
+
